@@ -2,7 +2,7 @@
 pictil.py (pictil in the command line) is a Python utility for managing the names and numbering of files output by Nikon cameras. Generally, they follow the format of "DSC_0000.MOV/.JPG." This utility allows the user to easily change the numbering of those files.
 
 ## Usage
-pictil is istalled via PyPI/pip
+pictil is istalled via [PyPI/pip](https://pypi.python.org/pypi/pictil)
 ```
 pip install pictil
 ```
